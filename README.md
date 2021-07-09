@@ -15,8 +15,7 @@ de login única. Criado também uma primeira versão das interfaces de trabalho
 - esta última é um usuário especial criado para dar início ao cadastro de outras secretárias,
 as secretárias que de fato realizarão tarefas no sitema) ).
 
-Próximos passos (próxima versão): criar persistência de objetos em arquivo local;
-implementar funcionalidade de auto-cadastro pelos Pacientes)
+Próximos passos (próxima versão): rearrumar pacotes no padrão MVC, criar persistência de objetos em arquivo local; implementar funcionalidade de auto-cadastro pelos Pacientes.
 
 
 Histórico:
